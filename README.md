@@ -11,7 +11,7 @@
 - 💡 Adoro um bom desafio
 - 🖥️ Apaixonado por tecnologias
   
-Desde que comecei a minha jornada na programação, tenho dedicado meu tempo ao desenvolvimento na parte back-end, trabalhando com tecnologias como Java e Spring Boot para criar aplicações escaláveis e de alta performance. Tenho uma base sólida em bancos de dados relacionais, como MySQL e PostgreSQL, garantindo uma manipulação de dados eficiente e segura.
+Desde que comecei a minha jornada na programação, tenho dedicado meu tempo ao desenvolvimento na parte back-end, trabalhando com tecnologias como Java e Spring Boot para criar aplicações escaláveis e de alta performance. Tenho uma base sólida em bancos de dados relacionais, com PostgreSQL, garantindo uma manipulação de dados eficiente e segura.
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-palmerim-6a5a17262/)
