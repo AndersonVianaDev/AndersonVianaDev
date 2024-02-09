@@ -11,7 +11,7 @@
 - 💡 Adoro um bom desafio
 - 🖥️ Apaixonado por tecnologias
   
-Desde que comecei a minha jornada na programação, tenho dedicado meu tempo ao desenvolvimento na parte back-end, trabalhando com tecnologias como Java e Spring Boot para criar aplicações escaláveis e de alta performance. Tenho uma base sólida em bancos de dados relacionais, com PostgreSQL, garantindo uma manipulação de dados eficiente e segura.
+Sou apaixonado por duas áreas fascinantes: tecnologia e atividade física. Atualmente, sou estudante na área de Análise e Desenvolvimento de Software, com foco especializado no desenvolvimento backend utilizando Java. Possuo habilidades sólidas em Java, Spring Boot, Spring Security, Docker e PostgreSQL. Além disso, tenho interesse e conhecimento em Arquitetura de Software, especialmente nas abordagens de Arquitetura Hexagonal e práticas de Clean Code. Estou comprometido em aprimorar constantemente meu conhecimento e habilidades para contribuir de forma significativa no mundo da tecnologia.
 
 ## Contato
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-palmerim-6a5a17262/)
