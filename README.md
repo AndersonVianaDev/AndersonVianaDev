@@ -5,7 +5,7 @@
 
 Sou desenvolvedor de software com experiência em microsserviços, metodologias ágeis e desenvolvimento back-end. Tenho foco em escrever código limpo, testável e escalável, sempre buscando boas práticas, evolução contínua e colaboração em equipe.
 
-Atualmente, trabalho na **Akross**, uma tech boutique, integrando o time de **SDP (Service Delivery Platform)**. Atuamos na integração com sistemas **OSS** e **BSS** de operadoras, gerenciando todo o ciclo de vida de serviços de valor adicionado — como conteúdos, canais e meios de pagamento — de forma simples, escalável e ágil.
+Atualmente, trabalho na **Akross**, uma tech boutique, integrando o time de **SDP (Service Delivery Platform)**. Atuamos na integração com sistemas **OSS** e **BSS** de operadoras, gerenciando todo o ciclo de vida de serviços de valor agregado de forma simples, escalável e ágil.
 
 🌐 Nossa plataforma atua em toda a jornada do cliente:  
 • Elegibilidade  
@@ -21,7 +21,7 @@ Atualmente, trabalho na **Akross**, uma tech boutique, integrando o time de **SD
 - Go e Python (para serviços específicos e scripts)
 - Microsserviços com comunicação via REST e eventos
 - PostgreSQL, Redis
-- AWS (EC2, S3, RDS, Lambda, SQS)
+- AWS (EC2, S3, RDS, Lambda, SQS, ECS, EKS)
 - Docker e Git
 - Boas práticas com Clean Code e princípios SOLID
 
