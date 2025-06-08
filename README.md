@@ -14,11 +14,8 @@ Atualmente, trabalho na **Akross**, uma tech boutique, integrando o time de **SD
 • Cobrança  
 • Cancelamento  
 
-📲 Conectamos serviços e produtos ao maior ecossistema digital do país, gerando valor, aumentando o lifetime value e reduzindo o custo de aquisição de clientes.
-
 ### 🔧 Tecnologias que utilizo no dia a dia:
-- Java (Spring Boot, Spring Security, Spring Data)
-- Go e Python (para serviços específicos e scripts)
+- Java, Go e Python 
 - Microsserviços com comunicação via REST e eventos
 - PostgreSQL, Redis
 - AWS (EC2, S3, RDS, Lambda, SQS, ECS, EKS)
