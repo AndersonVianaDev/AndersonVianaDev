@@ -51,6 +51,14 @@ Atuo com foco em desenvolvimento de APIs RESTful, integrações baseadas em even
 
 ---
 
+## 📌 Projeto em Destaque
+
+- ⚔️ **[Rinha Backend 2025](https://github.com/AndersonVianaDev/rinha-backend-2025-v1)**  
+  Desafio técnico focado em performance e arquitetura.  
+  Desenvolvi uma API com **Java + Spring Boot**, **Redis**, **PostgreSQL**, e **Docker**, buscando chegar o mais próximo possível de uma aplicação enterprise
+
+---
+
 ## 📈 GitHub Stats
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVianaDev&show_icons=true&theme=transparent)
