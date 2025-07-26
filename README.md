@@ -1,30 +1,23 @@
-<h1 align="center">Olá, me chamo Anderson Palmerim Viana</h1>  
+<h1 align="center">Olá, eu sou Anderson Palmerim Viana</h1>  
 <h3 align="center">Desenvolvedor de Software | Back-end com Java, Go e Python</h3>  
 
 ## 💻 Sobre mim  
 
-Sou desenvolvedor de software com experiência em microsserviços, metodologias ágeis e desenvolvimento back-end. Tenho foco em escrever código limpo, testável e escalável, sempre buscando boas práticas, evolução contínua e colaboração em equipe.
+Sou desenvolvedor back-end com experiência em projetos baseados em microsserviços, arquitetura distribuída e metodologias ágeis. Tenho como prioridade a entrega de soluções limpas, testáveis e escaláveis, sempre alinhado a boas práticas de engenharia de software.
 
-Atualmente, trabalho na **Akross**, uma tech boutique, integrando o time de **SDP (Service Delivery Platform)**. Atuamos na integração com sistemas **OSS** e **BSS** de operadoras, gerenciando todo o ciclo de vida de serviços de valor agregado de forma simples, escalável e ágil.
+Atuo com foco em desenvolvimento de APIs RESTful, integrações baseadas em eventos, e gestão de dados com bancos relacionais e não relacionais. Gosto de colaborar em times multidisciplinares, buscando evolução técnica contínua e entrega de valor.
 
-🌐 Nossa plataforma atua em toda a jornada do cliente:  
-• Elegibilidade  
-• Comunicação  
-• Assinatura  
-• Cobrança  
-• Cancelamento  
-
-### 🔧 Tecnologias que utilizo no dia a dia:
-- Java, Go e Python 
-- Microsserviços com comunicação via REST e eventos
-- PostgreSQL, Redis
-- AWS (EC2, S3, RDS, Lambda, SQS, ECS, EKS)
-- Docker e Git
-- Boas práticas com Clean Code e princípios SOLID
+### 🚀 Tenho experiência com:
+- Desenvolvimento de APIs e microsserviços com Java (Spring), Go e Python
+- Integrações assíncronas via filas e eventos
+- Bancos de dados como PostgreSQL e Redis
+- Práticas de DevOps com Docker e Git
+- Cloud computing com AWS (EC2, S3, RDS, Lambda, SQS, ECS, EKS...)
+- Boas práticas: Clean Code, princípios SOLID e arquitetura limpa
 
 ---
 
-## 🚀 Skills e Ferramentas
+## 🛠️ Tecnologias e Ferramentas
 
 <p align="left"> 
   <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
@@ -64,8 +57,6 @@ Atualmente, trabalho na **Akross**, uma tech boutique, integrando o time de **SD
 
 ---
 
-## 📫 Contato
+## 📫 Entre em contato
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-palmerim-6a5a17262/)
-
-
