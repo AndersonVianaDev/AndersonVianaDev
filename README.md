@@ -126,8 +126,8 @@ Result →  API enterprise-grade sob carga extrema
 ## `$ stats`
 
 <div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonVianaDev&show_icons=true&theme=dark&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVianaDev&layout=compact&theme=dark&bg_color=0d1117&title_color=f97316&text_color=c9d1d9&border_color=30363d&langs_count=6"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonVianaDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVianaDev&layout=compact&theme=github_dark&langs_count=6&hide_border=true"/>
 </div>
 
 ---
@@ -150,4 +150,3 @@ Disponível para **oportunidades back-end**, projetos desafiadores e conversas s
     <code>// Código limpo não é escrito para a máquina. É escrito para quem vem depois.</code>
   </sub>
 </div>
-
