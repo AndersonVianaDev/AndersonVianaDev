@@ -121,18 +121,7 @@ Result →  API enterprise-grade sob carga extrema
 └─────────────────────────────────────────────────────────────────┘
 ```
 
----
-
-## `$ stats`
-
-<div align="center">
-  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonVianaDev&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true&hide_border=true"/>
-  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVianaDev&layout=compact&theme=github_dark&langs_count=6&hide_border=true"/>
-</div>
-
----
-
-## `$ contact --open-to-work`
+## `$ contact`
 
 <div align="center">
 
