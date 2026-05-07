@@ -1,70 +1,153 @@
-<h1 align="center">Olá, eu sou Anderson Palmerim Viana</h1>  
-<h3 align="center">Desenvolvedor de Software | Back-end com Java, Go e Python</h3>  
+<div align="center">
 
-## 💻 Sobre mim  
+```
+   ___   _  _ ___  ___ ___  ___  ___  _  _    __   ___  _   _  _   _   ___ ___ ___ __  __
+  / _ \ | \| |   \| __| _ \/ __|| _ \| \| |  / /  / _ \| | | || | | | | _ \ __| _ \_ _|/ |
+ | (_) || .` | |) | _||   /\__ \| _ \|  . | / /  | (_) | |_| || |_| | |  _/ _||   /| | | |
+  \__\_\|_|\_|___/|___|_|_\|___/|___/|_|\_|/_/    \__\_\\___/ |_____|_|_| |___|_|_\___||_|
+```
 
-Sou desenvolvedor back-end com experiência em projetos baseados em microsserviços, arquitetura distribuída e metodologias ágeis. Tenho como prioridade a entrega de soluções limpas, testáveis e escaláveis, sempre alinhado a boas práticas de engenharia de software.
+</div>
 
-Atuo com foco em desenvolvimento de APIs RESTful, integrações baseadas em eventos, e gestão de dados com bancos relacionais e não relacionais. Gosto de colaborar em times multidisciplinares, buscando evolução técnica contínua e entrega de valor.
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&weight=600&size=22&pause=1000&color=F97316&center=true&vCenter=true&width=600&lines=Back-end+Engineer+%7C+Java+%2B+Spring;Microservices+%26+Distributed+Systems;Clean+Architecture+%7C+SOLID+%7C+DDD;AWS+%7C+Docker+%7C+Event-Driven" alt="Typing SVG" />
+</div>
 
-### 🚀 Tenho experiência com:
-- Desenvolvimento de APIs e microsserviços com Java (Spring), Go e Python
-- Integrações assíncronas via filas e eventos
-- Bancos de dados como PostgreSQL e Redis
-- Práticas de DevOps com Docker e Git
-- Cloud computing com AWS (EC2, S3, RDS, Lambda, SQS, ECS, EKS...)
-- Boas práticas: Clean Code, princípios SOLID e arquitetura limpa
-
----
-
-## 🛠️ Tecnologias e Ferramentas
-
-<p align="left"> 
-  <a href="https://aws.amazon.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.docker.com/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/> 
-  </a> 
-  <a href="https://git-scm.com/" target="_blank" rel="noreferrer">
-    <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.java.com" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> 
-  </a> 
-  <a href="https://golang.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/go/go-original.svg" alt="go" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.python.org/" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
-  </a> 
-  <a href="https://www.postgresql.org" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original-wordmark.svg" alt="postgresql" width="40" height="40"/> 
-  </a> 
-  <a href="https://redis.io" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/redis/redis-original-wordmark.svg" alt="redis" width="40" height="40"/> 
-  </a> 
-  <a href="https://spring.io/" target="_blank" rel="noreferrer"> 
-    <img src="https://www.vectorlogo.zone/logos/springio/springio-icon.svg" alt="spring" width="40" height="40"/> 
-  </a> 
-</p>
+<br/>
 
 ---
 
-## 📌 Projeto em Destaque
+## `$ whoami`
 
-- ⚔️ **[Rinha Backend 2025](https://github.com/AndersonVianaDev/rinha-backend-2025-v1)**  
-  Desafio técnico focado em performance e arquitetura.  
-  Desenvolvi uma API com **Java + Spring Boot**, **Redis**, **PostgreSQL**, e **Docker**, buscando chegar o mais próximo possível de uma aplicação enterprise
+```java
+@Component
+public class Anderson {
+
+    private final String name     = "Anderson Palmerim Viana";
+    private final String role     = "Back-end Software Engineer";
+    private final String location = "Rio de Janeiro, Brasil 🇧🇷";
+
+    private final List<String> stack = List.of(
+        "Java + Spring Boot", "Go", "Python",
+        "PostgreSQL", "Redis",
+        "AWS", "Docker", "Kafka/SQS"
+    );
+
+    private final List<String> strengths = List.of(
+        "Microservices & Distributed Systems",
+        "RESTful API Design",
+        "Event-Driven Architecture",
+        "Clean Code & SOLID Principles",
+        "Scalable & Testable Solutions"
+    );
+
+    public String currentFocus() {
+        return "Construindo sistemas de alta performance e baixa latência";
+    }
+}
+```
 
 ---
 
-## 📈 GitHub Stats
+## `$ skills --list`
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=AndersonVianaDev&show_icons=true&theme=transparent)
+### ☕ Core — Java Ecosystem
+
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Spring Boot](https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white)
+![Spring Security](https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white)
+![Maven](https://img.shields.io/badge/Maven-C71A36?style=for-the-badge&logo=apache-maven&logoColor=white)
+![JUnit5](https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white)
+
+### 🗄️ Data Layer
+
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
+![Hibernate](https://img.shields.io/badge/Hibernate-59666C?style=for-the-badge&logo=hibernate&logoColor=white)
+
+### ☁️ Cloud & DevOps
+
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white)
+
+**AWS:** `EC2` `ECS` `EKS` `Lambda` `S3` `RDS` `SQS` `CloudWatch`
+
+### 🔀 Outras Linguagens
+
+![Go](https://img.shields.io/badge/Go-00ADD8?style=for-the-badge&logo=go&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 
 ---
 
-## 📫 Entre em contato
+## `$ projects --featured`
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-palmerim-6a5a17262/)
+### ⚔️ Rinha de Backend 2025
+
+> Desafio técnico de alta performance — foco em throughput, latência e resiliência
+
+```
+Stack  →  Java 21 + Spring Boot  |  Redis  |  PostgreSQL  |  Docker Compose
+Focus  →  Performance tuning, connection pooling, caching strategy
+Result →  API enterprise-grade sob carga extrema
+```
+
+[![Repo](https://img.shields.io/badge/Ver_no_GitHub-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndersonVianaDev/rinha-backend-2025-v1)
+
+---
+
+## `$ expertise --deep-dive`
+
+```
+┌─────────────────────────────────────────────────────────────────┐
+│  ARQUITETURA & DESIGN                                           │
+│  ├── Microservices com domínios bem definidos (DDD)            │
+│  ├── Clean Architecture (Ports & Adapters / Hexagonal)         │
+│  ├── Event-Driven com SQS / Kafka                              │
+│  └── API-first design com OpenAPI / Swagger                    │
+│                                                                 │
+│  QUALIDADE & ENGENHARIA                                         │
+│  ├── Testes unitários e de integração (JUnit 5 + Mockito)      │
+│  ├── SOLID, Clean Code e Design Patterns                        │
+│  ├── Code Review e documentação técnica                        │
+│  └── CI/CD com GitHub Actions                                  │
+│                                                                 │
+│  DADOS & PERFORMANCE                                            │
+│  ├── Modelagem relacional e consultas otimizadas (PostgreSQL)   │
+│  ├── Caching distribuído com Redis                              │
+│  ├── Async processing com filas de mensagens                   │
+│  └── Observabilidade com logs estruturados e métricas          │
+└─────────────────────────────────────────────────────────────────┘
+```
+
+---
+
+## `$ stats`
+
+<div align="center">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=AndersonVianaDev&show_icons=true&theme=dark&bg_color=0d1117&title_color=f97316&icon_color=f97316&text_color=c9d1d9&border_color=30363d&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AndersonVianaDev&layout=compact&theme=dark&bg_color=0d1117&title_color=f97316&text_color=c9d1d9&border_color=30363d&langs_count=6"/>
+</div>
+
+---
+
+## `$ contact --open-to-work`
+
+<div align="center">
+
+Disponível para **oportunidades back-end**, projetos desafiadores e conversas sobre engenharia de software.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Anderson_Palmerim-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anderson-palmerim-6a5a17262/)
+[![GitHub](https://img.shields.io/badge/GitHub-AndersonVianaDev-181717?style=for-the-badge&logo=github&logoColor=white)](https://github.com/AndersonVianaDev)
+
+</div>
+
+---
+
+<div align="center">
+  <sub>
+    <code>// Código limpo não é escrito para a máquina. É escrito para quem vem depois.</code>
+  </sub>
+</div>
+
